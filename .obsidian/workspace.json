@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Otávio/ToDo.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -181,14 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e29a5b48997356eb",
+  "active": "2d4808c32dcf0469",
   "lastOpenFiles": [
-    "2025-09-18.md",
+    "ideias/Tasks no zap.md",
     "Otávio/ToDo.md",
+    "2025-09-18.md",
     "4dev/CRM SAAS.md",
     "Otávio",
     "ideias/Excalidraw/Tasks no zap.md",
-    "ideias/Tasks no zap.md",
     "2025-09-14.md",
     "create a link.md",
     "Untitled.md",
