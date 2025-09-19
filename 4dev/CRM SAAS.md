@@ -1,0 +1,1 @@
+usuario vai ter um chatwoot de forma automatica

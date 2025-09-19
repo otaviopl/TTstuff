@@ -1,0 +1,2 @@
+Basicamente um aplicativo que vai mandar suas tarefas ja em prioridades diretamente no seu whatsapp. Por enquanto o app existe apenas com integracao notion + telegram, mas a ideia é que por meio de um formulario (agora inicialmente) o usuario va preenchendo suas tarefas em no meu databasePage no notion.
+Acredito que o app tenha suas vatangens de irmos integrando em outras plataformas, algo como mandar no whatsapp, criar eventos no google calendar etc etc o *mandar por gpt  para ajudar aqui para mais ideias* 
