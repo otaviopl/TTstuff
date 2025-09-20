@@ -1,5 +1,5 @@
-Ajeitar processo para nova cliente ter acesso ao chatwoot.
-Mandar resposta pra ela
+~~Ajeitar processo para nova cliente ter acesso ao chatwoot.~~
+~~Mandar resposta pra ela~~
 Sankhya banner
 Automacao brasif
 Projeto suporte
